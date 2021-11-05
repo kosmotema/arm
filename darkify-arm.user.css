@@ -2,14 +2,14 @@
 @name           #darkify-arm
 @namespace      https://github.com/xapdkop
 @version        1.3.1
-@description    This is dark theme for arm.iipo.tu-bryansk.ru
+@description    Темная тема для arm.iipo.tu-bryansk.ru
 @homepageURL    https://github.com/xapdkop/arm-styles
 @updateURL      https://raw.githubusercontent.com/xapdkop/arm-styles/beta/darkify-arm.user.css
 @author         xapdkop (https://github.com/xapdkop)
 @license        GPL-3.0-only
 @preprocessor   less
 
-@var checkbox followSystemTheme "Follow system theme" 0
+@var checkbox followSystemTheme "Следовать системной теме" 0
 ==/UserStyle== */
 
 @-moz-document domain("arm.iipo.tu-bryansk.ru") {
