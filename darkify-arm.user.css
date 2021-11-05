@@ -9,7 +9,7 @@
 @license        GPL-3.0-only
 @preprocessor   less
 
-@var checkbox followSystemTheme "Следовать системной теме" 0
+@var checkbox followSystemTheme "[Системная тема]: следовать системной теме (темная тема применится только если системная тема тоже темная)" 0
 ==/UserStyle== */
 
 @-moz-document domain("arm.iipo.tu-bryansk.ru") {

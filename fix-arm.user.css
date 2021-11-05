@@ -2,13 +2,13 @@
 @name           #fix-arm
 @namespace      https://github.com/xapdkop
 @version        1.3.1
-@description    This userstyle fixes some of bugs of arm.iipo.tu-bryansk.ru
+@description    Пора исправить некоторые баги на of arm.iipo.tu-bryansk.ru
 @homepageURL    https://github.com/xapdkop/arm-styles
 @updateURL      https://raw.githubusercontent.com/xapdkop/arm-styles/dev/fix-arm.user.css
 @author         xapdkop (https://github.com/xapdkop)
 @license        GPL-3.0-only
 @preprocessor   less
-@var checkbox stickyStudentColumn "Make the students column sticky" 1
+@var checkbox stickyStudentColumn "[Липкие студенты]: отображать колонку со студентами слева при прокрутке" 1
 ==/UserStyle== */
 
 @-moz-document domain("arm.iipo.tu-bryansk.ru") {
