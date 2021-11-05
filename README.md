@@ -1,4 +1,4 @@
-# arm-styles [![Install #fix-arm directly with Stylus](https://img.shields.io/badge/Install-%23fix--arm-darkgreen.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/master/fix-arm.user.css) [![Install #darkify-arm directly with Stylus](https://img.shields.io/badge/Install-%23darkify--arm-black.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/master/darkify-arm.user.css)
+# arm-styles [![Install #fix-arm directly with Stylus](https://img.shields.io/badge/Install-%23fix--arm-darkgreen.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/stable/fix-arm.user.css) [![Install #darkify-arm directly with Stylus](https://img.shields.io/badge/Install-%23darkify--arm-black.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/stable/darkify-arm.user.css)
 
 ## What is this?
 
@@ -14,8 +14,8 @@ To use on mobile you need to install [Kiwi Browser](https://play.google.com/stor
 
 #### There are 2 branches: stable and beta:
 - **stable**: 
-    - [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/master/fix-arm.user.css)
-    - [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/master/darkify-arm.user.css)
+    - [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/stable/fix-arm.user.css)
+    - [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/stable/darkify-arm.user.css)
 - **beta**: 
     - [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/beta/fix-arm.user.css)
     - [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/beta/darkify-arm.user.css)
