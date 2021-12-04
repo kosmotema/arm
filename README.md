@@ -1,4 +1,4 @@
-# arm-styles [![Установить #fix-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23fix--arm-darkgreen.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/stable/fix-arm.user.css) [![Установить #darkify-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23darkify--arm-black.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/stable/darkify-arm.user.css)
+# arm-styles [![Установить #fix-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23fix--arm-darkgreen.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/main/fix-arm.user.css) [![Установить #darkify-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23darkify--arm-black.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/main/darkify-arm.user.css)
 
 ## Что это?
 
@@ -12,17 +12,10 @@
 
 Для использования на Android придется воспользоваться браузером [Kiwi (рекомендуется)](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) или [Яндекс.Браузером](https://play.google.com/store/apps/details?id=com.yandex.browser), а затем установить Stylus из [магазина расширений Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
 
-#### Существуют три ветки: stable (стабильные версии), beta (бета-версии) и dev (версии разработчиков):
+#### Ссылки на стили:
 
--   **stable**:
-    -   [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/stable/fix-arm.user.css)
-    -   [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/stable/darkify-arm.user.css)
--   **beta**:
-    -   [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/beta/fix-arm.user.css)
-    -   [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/beta/darkify-arm.user.css)
--   **dev**:
-    -   [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/dev/fix-arm.user.css)
-    -   [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/dev/darkify-arm.user.css)
+-   [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/main/fix-arm.user.css)
+-   [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/main/darkify-arm.user.css)
 
 Можете нажать на любой стиль и он будет открыт для установки в Stylus (у тебя же он уже установлен, да?).
 
