@@ -1,4 +1,4 @@
-# arm-styles [![Установить #fix-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23fix--arm-darkgreen.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/main/fix-arm.user.css) [![Установить #darkify-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23darkify--arm-black.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/main/darkify-arm.user.css)
+# arm-styles [![Установить #fix-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23fix--arm-darkgreen.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/main/fix.user.css) [![Установить #darkify-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23darkify--arm-black.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/main/darkify.user.css)
 
 ## Что это?
 
@@ -10,14 +10,16 @@
 
 Для использования **#fix-arm** или **#darkify-arm** на ПК тебе понадобится [расширение Stylus](https://github.com/openstyles/stylus#releases).
 
-Для использования на Android придется воспользоваться браузером [Kiwi (рекомендуется)](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) или [Яндекс.Браузером](https://play.google.com/store/apps/details?id=com.yandex.browser), а затем установить Stylus из [магазина расширений Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
+Для использования на Android придется воспользоваться браузером [**Kiwi (рекомендуется)**](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) или [Яндекс.Браузером](https://play.google.com/store/apps/details?id=com.yandex.browser) **(не рекомендуется)**, а затем установить Stylus из [магазина расширений Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
 
-#### Ссылки на стили:
+Для использования на iOS выкинь все свои устройства на iOS и купи вместо них нормальные девайсы на Android.
 
--   [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/main/fix-arm.user.css)
--   [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/main/darkify-arm.user.css)
+### Ссылки на стили:
 
-Можете нажать на любой стиль и он будет открыт для установки в Stylus (у тебя же он уже установлен, да?).
+-   [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/main/fix.user.css)
+-   [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/main/darkify.user.css)
+
+Можешь нажать на любой стиль и он будет открыт для установки в Stylus (у тебя же он уже установлен, да?).
 
 ## Опции
 
@@ -37,4 +39,4 @@
 
 -   `Системная тема` | **выключена**
 
-          Заставляет #darkify-arm следовать системной теме (темная версия будет применена только тогда, когда системная тема тоже темная).
+        Заставляет #darkify-arm следовать системной теме (темная версия будет применена только тогда, когда системная тема тоже темная).
