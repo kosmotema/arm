@@ -1,4 +1,4 @@
-# arm-styles [![Установить #fix-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23fix--arm-darkgreen.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/main/fix.user.css) [![Установить #darkify-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23darkify--arm-black.svg)](https://raw.githubusercontent.com/xapdkop/arm-styles/main/darkify.user.css)
+# arm userstyles [![Установить #fix-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23fix--arm-darkgreen.svg)](https://raw.githubusercontent.com/xapdkop/arm/main/fix.user.css) [![Установить #darkify-arm в Stylus](https://img.shields.io/badge/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%23darkify--arm-black.svg)](https://raw.githubusercontent.com/xapdkop/arm/main/darkify.user.css)
 
 ## Что это?
 
@@ -16,8 +16,8 @@
 
 ### Ссылки на стили:
 
--   [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/main/fix.user.css)
--   [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm-styles/main/darkify.user.css)
+-   [#fix-arm](https://raw.githubusercontent.com/xapdkop/arm/main/fix.user.css)
+-   [#darkify-arm](https://raw.githubusercontent.com/xapdkop/arm/main/darkify.user.css)
 
 Можешь нажать на любой стиль и он будет открыт для установки в Stylus (у тебя же он уже установлен, да?).
 
