@@ -10,9 +10,7 @@
 
 Для использования **#fix-arm** или **#darkify-arm** на ПК тебе понадобится [расширение Stylus](https://github.com/openstyles/stylus#releases).
 
-Для использования на Android придется воспользоваться браузером [**Kiwi (рекомендуется)**](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) или [Яндекс.Браузером](https://play.google.com/store/apps/details?id=com.yandex.browser) **(не рекомендуется)**, а затем установить Stylus из [магазина расширений Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
-
-Для использования на iOS выкинь все свои устройства на iOS и купи вместо них нормальные девайсы на Android.
+Для использования на Android рекомендуется использовать браузер [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) с расширением [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/). Аналогично можно воспользоваться браузером [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) или [Яндекс.Браузером](https://play.google.com/store/apps/details?id=com.yandex.browser) **(не рекомендуется)**, а затем установить Stylus из [магазина расширений Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
 
 ### Ссылки на стили:
 
